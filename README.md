@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F4D03F&height=150&section=header&text=homeless-dev&fontColor=FFFFFF&fontSize=70)
 
+<p align="center">✨개발과 운동✨을 좋아하는 이하늘입니다. 백엔드 개발자가 되는 것이 목표입니다.✨</p>
+
 <p align="center">🇰🇷</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
