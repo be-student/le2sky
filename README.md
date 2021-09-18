@@ -1,18 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F4D03F&height=150&section=header&text=homeless-dev&fontColor=FFFFFF&fontSize=70)
 
-<p align="center">✨개발과 운동을 좋아하는 이하늘입니다. 백엔드 개발자가 되는 것이 목표입니다.✨</p>
+![header](https://capsule-render.vercel.app/api?height=250&text=Homeless%20dev!&fontColor=FFFFFF&fontAlignY=41&color=F7DF1E&type=waving)
 
-<p align="center">🇰🇷</p>
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<p align="center"> Techs that I've used at least once </p>
+<h3 align="left">👏Hi there👏</h3>
+<p>I am leesky and I live in Anyang City, South Korea.</p>
+<p>
+I love working out and developing, and my goal is to become a backend developer.
+ </p>
+<hr>
+<h3 align="left">🛠 Tech Stack 🛠</h3>
+<h4>Techs that I've used at least once</h4>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
- <br>
   <img src="https://img.shields.io/badge/C99-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -20,7 +22,6 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp
@@ -28,7 +29,6 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
   
