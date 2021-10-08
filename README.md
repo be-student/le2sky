@@ -27,7 +27,6 @@ I love working out and developing, and my goal is to become a backend developer.
   <br>
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
   
