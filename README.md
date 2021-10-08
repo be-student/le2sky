@@ -1,11 +1,32 @@
-
-<!-- ![header](https://capsule-render.vercel.app/api?height=250&text=Homeless%20dev!&fontColor=FFFFFF&fontAlignY=30&fontAlign=68&rotate=16&color=FFEB3B&type=Slice&animation=twinkling ) -->
 <h3 align="left">👏Hi there👏</h3>
 <p>I am leesky and I live in Anyang City, South Korea.</p>
 <p>
 I love working out and developing, and my goal is to become a backend developer.
  </p>
+
+``` javascript
+const leesky = {
+    name: 'leesky☁',
+    age: 23,
+    from: 'south korea',
+    fav: ['developing💻', 'work out🏋️‍♀️'],
+    goal: 'backEnd dev',
+    
+    sayHi(yourName){
+        alert(`hello, ${yourName}!`);
+    },
+  
+    [Symbol.toPrimitive](hint){
+        if(hint == 'string') return `hello, my name is ${this.name}!`;
+        return 0;
+    },
+};
+
+
+
+```
 <hr>
+
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <h4>Techs that I've used at least once</h4>
 <br>
