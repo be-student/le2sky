@@ -53,3 +53,12 @@ const leesky = {
   
   
 </p>
+<br>
+
+<div align="center">
+ 
+ ![le2sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=le2sky&show_icons=true&theme=react&locale=kr&include_all_commits=true)
+ 
+</div>
+
+
