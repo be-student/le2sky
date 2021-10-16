@@ -8,10 +8,8 @@ I love working out and developing, and my goal is to become a backend developer.
 const leesky = {
     name: 'leesky☁',
     age: 23,
-    from: 'south korea',
     fav: ['developing💻', 'work out🏋️‍♀️'],
-    goal: 'backEnd dev',
-    
+
     sayHi(yourName){
         alert(`hello, ${yourName}!`);
     },
