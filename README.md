@@ -1,5 +1,5 @@
 <h3 align="left">👏Hi there👏</h3>
-<p>I am leesky and I live in Anyang City, South Korea.</p> 
+<p>I am leesky and I live in Anyang City, South Korea.</p>  
 <p>
 I love working out and developing, and my goal is to become a backend developer.
  </p>
