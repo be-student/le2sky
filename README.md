@@ -1,4 +1,4 @@
-<h2 align="left">안녕하세요 이하늘입니다!👏</h2>
+<h2 align="left">Hello! Stranger👏</h2>
 
 
 <img src="./test1.png"/>
@@ -19,9 +19,7 @@
 
 
 
-<hr>
 
-<h3 align="left">🛠 기술 스택 🛠</h3>
 <h4>Techs that I've used at least once</h4>
 <br>
 
