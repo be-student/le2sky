@@ -1,31 +1,22 @@
-<h3 align="left">👏Hi there👏</h3>
-<p>I am leesky and I live in Anyang City, South Korea.</p>  
+<h2 align="left">안녕하세요 이하늘입니다!👏</h2>
+
+<br>
+
 <p>
-I love working out and developing, and my goal is to become a backend developer.
+<ul>1. NodeJs 기반 백엔드 프레임워크(express, NestJs)에 대해 학습 중입니다. </ul>
+<ul>2. Javascript의 유연함과 Typescript의 생산성에 흥미를 느낍니다.</ul>
+<ul>3. 사용자 경험을 저해하지 않는 튼튼한 Server-side를 구축하고 싶습니다. </ul>
+<ul>4. 창의적인 아이디어를 위해 끊임없이 탐구합니다.🐱‍🏍 </ul>
+
+
  </p>
 
-``` javascript
-const leesky = {
-    name: 'leesky☁',
-    age: 23,
-    fav: ['developing💻', 'work out🏋️‍♀️'],
-
-    sayHi(yourName){
-        alert(`hello, ${yourName}!`);
-    },
-  
-    [Symbol.toPrimitive](hint){
-        if(hint == 'string') return `hello, my name is ${this.name}!`;
-        return 0;
-    },
-};
 
 
 
-```
 <hr>
 
-<h3 align="left">🛠 Tech Stack 🛠</h3>
+<h3 align="left">🛠 기술 스택 🛠</h3>
 <h4>Techs that I've used at least once</h4>
 <br>
 
