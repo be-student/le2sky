@@ -20,8 +20,6 @@
 - FAV : 
 <img src="https://img.shields.io/badge/JS ES5+-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RN-000000?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
