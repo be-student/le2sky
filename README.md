@@ -1,5 +1,5 @@
-<h2 align="left">Resume/h2>
-
+<!-- <h2 align="left">Resume</h2>
+ -->
 
 <img src="./test1.png"/>
 
