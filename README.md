@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/Express-ffffff?&logo=express&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Nest-E0234E?&logo=nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OWASP API Security -black?&logo=OWASP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?&logo=ReactiveX&logoColor=white"/></a>
+
 
 - DevOps💻:
 <img src="https://img.shields.io/badge/Docker-0db7ed?&logo=docker&logoColor=white"/></a>
@@ -34,7 +36,9 @@
 - Unit Test💻:
 <img src="https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white"/></a>
  
-    
+- Fontend(a little)💻:
+<img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gatsby-663399?&logo=Gatsby&logoColor=white"/></a>
 
 
 
