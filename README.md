@@ -1,8 +1,8 @@
 <!-- <h2 align="left">Resume</h2>
  -->
-
+<p align="center">
 <img src="./test.gif"/>
-
+</p>
 <br>
 
  
