@@ -1,4 +1,4 @@
-<h2 align="left"He Neul Lee</h2>
+<h2 align="left">Resume/h2>
 
 
 <img src="./test1.png"/>
