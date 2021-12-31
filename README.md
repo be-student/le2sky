@@ -13,8 +13,8 @@
 3. 사용자 경험을 저해하지 않는 튼튼한 Server-side를 구축하고 싶습니다.
 
 ```
-- TECH BLOG : <a href="https://le2sky.github.io"> le2sky.github.io🚀 </a>
-- CONTACT : le2sky@kakao.com
+- Devlog : <a href="https://le2sky.github.io"> le2sky.github.io🚀 </a>
+- Contact : le2sky@kakao.com
 
 - Favorite Language💻: 
 <img src="https://img.shields.io/badge/JS ES5+-F7DF1E?&logo=javascript&logoColor=white"/></a>
