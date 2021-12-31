@@ -17,8 +17,8 @@
 - Contact : le2sky@kakao.com
 
 - Favorite Language💻: 
-<img src="https://img.shields.io/badge/JS ES5+-F7DF1E?&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TS-007ACC?&logo=typescript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white"/></a>
 
 - Backend💻:
 <img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white"/></a>
