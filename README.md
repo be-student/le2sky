@@ -1,7 +1,7 @@
 <!-- <h2 align="left">Resume</h2>
  -->
 
-<img src="./test1.png"/>
+<img src="./test.gif"/>
 
 <br>
 
