@@ -16,12 +16,19 @@
 - TECH BLOG : <a href="https://le2sky.github.io"> le2sky.github.io🚀 </a>
 - CONTACT : le2sky@kakao.com
 
-- FAV : 
-<img src="https://img.shields.io/badge/JS ES5+-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
+- Favorite Language💻: 
+<img src="https://img.shields.io/badge/JS ES5+-F7DF1E?&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TS-007ACC?&logo=typescript&logoColor=white"/></a>
+
+- Backend💻:
+<img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Express-ffffff?&logo=express&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Nest-E0234E?&logo=nestjs&logoColor=white"/></a>
+
+- DevOps💻:
+<img src="https://img.shields.io/badge/Docker-0db7ed?&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?&logo=AmazonAWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Travis CI-3EAAAF?&logo=TravisCI&logoColor=white"/></a>
 
     
 
