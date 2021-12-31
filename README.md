@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Express-ffffff?&logo=express&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Nest-E0234E?&logo=nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OWASP API Security -black?&logo=OWASP&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ReactiveX-B7178C?&logo=ReactiveX&logoColor=white"/></a>
+
 
 
 - DevOps💻:
