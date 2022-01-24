@@ -17,6 +17,7 @@
 - Contact : le2sky@kakao.com
 
 - Favorite Language💻: 
+<img src="https://img.shields.io/badge/Go-00ADD8?&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white"/></a>
 
