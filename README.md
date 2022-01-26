@@ -41,6 +41,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gatsby-663399?&logo=Gatsby&logoColor=white"/></a>
 
-
+ 
 
    
