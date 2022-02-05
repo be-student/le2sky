@@ -13,9 +13,6 @@
 3. 사용자 경험을 저해하지 않는 튼튼한 Server-side를 구축하고 싶습니다.
 
 ```
-- Devlog : <a href="https://le2sky.github.io"> le2sky.github.io🚀 </a>
-- Contact : le2sky@kakao.com
-
 - Favorite Language💻: 
 <img src="https://img.shields.io/badge/Go-00ADD8?&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white"/></a>
