@@ -6,13 +6,7 @@
 <br>
        
             
- ``` 
-          
-1. NodeJs 기반 백엔드 프레임워크(express, NestJs)에 대해 학습 중입니다.
-2. Javascript의 유연함과 Typescript의 생산성에 흥미를 느낍니다.
-3. 사용자 경험을 저해하지 않는 튼튼한 Server-side를 구축하고 싶습니다.
 
-```
 - Favorite Language💻: 
 <img src="https://img.shields.io/badge/Go-00ADD8?&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white"/></a>
