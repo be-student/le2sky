@@ -1,11 +1,8 @@
-<!-- <h2 align="left">Resume</h2>
- -->
 <p align="center">
 <img src="./test.gif"/>
 </p>
-<br>
-       
-            
+
+<h3>Tech Stack🌴</h3>
 
 - Favorite Language💻: 
 <img src="https://img.shields.io/badge/Go-00ADD8?&logo=Go&logoColor=white"/></a>
