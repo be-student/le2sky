@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-ffffff?&logo=express&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Nest-E0234E?&logo=nestjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OWASP API Security -black?&logo=OWASP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OWASP API Security -white?&logo=OWASP&logoColor=black"/></a>
 </div>
 
 
@@ -42,9 +42,9 @@
 </div>
 
  <h4>More🔎</h4>
-<a href="https://www.instagram.com/lee.___.sky/"><p align="center"><img src="https://img.shields.io/badge/Instagram-C21325?&logo=instagram&logoColor=white"/></a></a>
+<a href="https://www.instagram.com/lee.___.sky/"><p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white"/></a></a>
 <a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=Gmail&logoColor=white"/></a>
-<a href="https://le2sky.github.io/"><img src="https://img.shields.io/badge/Tech Blog-11B48A?&logo=Vimeo&logoColor=white"/></a></p>
+<a href="https://le2sky.github.io/"><img src="https://img.shields.io/badge/Tech Blog-FFFFFF?&logo=Github&logoColor=black"/></a></p>
 
 </div>
    
